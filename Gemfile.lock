@@ -39,7 +39,6 @@ GEM
     errorapp_notifier (7.0.1)
     erubis (2.7.0)
     geocoder (1.1.1)
-    gruff (0.3.6)
     hike (1.2.1)
     i18n (0.6.0)
     journey (1.0.3)
@@ -105,7 +104,6 @@ GEM
       polyglot (>= 0.3.1)
     tzinfo (0.3.33)
     yaml_db (0.2.2)
-	rmagick (2.13.1)
 
 PLATFORMS
   x86-mingw32
@@ -115,7 +113,6 @@ DEPENDENCIES
   bitly (~> 0.4.0)
   errorapp_notifier
   geocoder
-  gruff (~> 0.3.6)
   jquery-rails
   mysql
   paperclip (~> 3.0.1)
