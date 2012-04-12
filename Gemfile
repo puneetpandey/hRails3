@@ -15,10 +15,6 @@ gem 'bitly', '~> 0.4.0'
 gem 'responds_to_parent', '~> 1.0.20091013'
 gem 'errorapp_notifier'
 
-#group :development do
-#	gem 'rmagick-2.12.0-x86-mswin32', :require => 'RMagick'
-#end
-
 # Gems used only for assets and not required
 # in production environments by default.
 #group :assets do
@@ -29,11 +25,6 @@ gem 'errorapp_notifier'
 #  gem 'therubyracer', :platform => :ruby
 
 #  gem 'uglifier', '>= 1.0.3'
-#end
-
-#group :staging do
-#  gem 'gruff', '~> 0.3.6'
-#  gem 'rmagick', '~> 2.13.1'
 #end
 
 # To use ActiveModel has_secure_password
