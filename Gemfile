@@ -10,11 +10,11 @@ gem 'jquery-rails'
 gem 'acts_as_audited', '2.0.0'
 gem 'yaml_db'
 gem 'paperclip', '~> 3.0.1'
-gem 'mysql'
+
 gem 'bitly', '~> 0.4.0'
 gem 'responds_to_parent', '~> 1.0.20091013'
 gem 'errorapp_notifier'
-
+gem 'mysql'
 # Gems used only for assets and not required
 # in production environments by default.
 #group :assets do
