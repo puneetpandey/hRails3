@@ -4,12 +4,9 @@ gem 'rails', '3.2.3'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
-gem 'prawn', '~> 0.8.4'
-gem 'geocoder'
 gem 'jquery-rails'
 gem 'acts_as_audited', '2.0.0'
 gem 'yaml_db'
-gem 'paperclip', '~> 3.0.1'
 
 gem 'bitly', '~> 0.4.0'
 gem 'responds_to_parent', '~> 1.0.20091013'
